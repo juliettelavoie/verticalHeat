@@ -3,12 +3,12 @@ Code for the analysis of paper Simulated and observed vertical hydrography in th
 
 **PreprocessingObs.ipynb:** Preprocess data from AIDJEX and ITP. Interpolate on a 1m grid and put all viable profiles in a dictionnary
 
-**budget40.ipynb:** Calculations for section 3.1.
+**budget40.ipynb:** Calculations for SI
 
-**profiles40.ipynb:** Calculations for section 3.2.
+**profiles40.ipynb:** Calculations for section 4.1
 
-**silicates40.ipynb:** Calculations for silicates in section 3.2.
+**silicates40.ipynb:** Calculations for silicates in section 4.1
 
-**transport1D40.ipynb:** Calculations for section 3.3.
+**transport1D40.ipynb:** Calculations for section 4.2
 
-**extraFigures.ipynb:** Figures 1, 4, 9, 10
+**extraFigures.ipynb:** other figures
