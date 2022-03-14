@@ -3,6 +3,11 @@ Code for the analysis of paper Lavoie, J., Tremblay, B., & Rosenblum, E. (2022).
 
 
 
+[![DOI](https://zenodo.org/badge/370795856.svg)](https://zenodo.org/badge/latestdoi/370795856)
+
+
+
+
 **PreprocessingObs.ipynb:** Preprocess data from AIDJEX and ITP. Interpolate on a 1m grid and put all viable profiles in a dictionnary
 
 **budget40.ipynb:** Calculations for SI
